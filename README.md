@@ -5,7 +5,7 @@
 
 A responsive personal portfolio website built to showcase software development projects, academic coursework, and technical capabilities in Artificial Intelligence and Robotics.
 
-🌐 **Live Demo:** [https://ahmiii-18.github.io/MY_Portfolio/](https://ahmiii-18.github.io/MY_Portfolio/)
+🌐 **Live Demo:** [https://codesbyahmad.github.io/MY_Portfolio/](https://codesbyahmad.github.io/MY_Portfolio/)
 
 ---
 
